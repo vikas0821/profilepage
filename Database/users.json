@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "vikas",
+      "lname": "kannaujiya",
+      "email": "vk356464@gmail.com",
+      "password": "8318727487",
+      "phoneNumber": "8318727487"
+    }
+  ]
+}
